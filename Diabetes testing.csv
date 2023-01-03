@@ -1,337 +1,337 @@
-Age,Gender,Smoking,DMtype,DuratnCategory,Facility,Footeducate,Onset,Ulcerduration,Over1month,FirstTreat,Site,Neuropthy,PAD,UlcerType,Wagner,Severity,Gangrene,Infected,PrevUlcer,Barefoot,HTN,Shock,Anemia,HE,Hypog,Stroke,Heartfail,Renal,Dressing,Healing,Amputation
-54,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,90,Yes,Prayer house,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Honey,No,Yes
-60,Female,Never,Type 2,11 to 20,Secondary,No,Spontaneous,39,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,Yes
-42,Male,Ex,Type 2,Less than or 10 years,Secondary,No,Spontaneous,54,Yes,Native medication,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Honey,No,No
-67,Male,Ex,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,18,No,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Honey,No,No
-45,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Traumatic,24,No,Self medication,Planter,No,No,Unclassified,grade 2,Early,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Honey,Yes,No
-54,Male,Ex,Type 2,Less than or 10 years,Primary,No,Traumatic,44,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Honey,No,Yes
-62,Male,Ex,Type 2,Less than or 10 years,Unorthodox,Yes,Traumatic,180,Yes,Prayer house,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,Honey,No,Yes
-24,Male,Current,Type 1,Less than or 10 years,Tertiary,No,Traumatic,30,Yes,Hospital,Planter,No,No,Unclassified,grade 3,Advanced,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Saline,Yes,No
-71,Female,Never,Type 2,11 to 20,Primary,Yes,Spontaneous,60,Yes,Prayer house,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Honey,No,No
-60,Female,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,12,No,Hospital,Planter,No,Yes,Ischemic,grade 1,Early,No,No,Yes,No,No,No,No,No,No,No,No,No,Honey,Yes,No
-56,Male,Ex,Type 2,Less than or 10 years,Primary,No,Spontaneous,33,Yes,Native medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
-61,Male,Never,Type 2,11 to 20,Tertiary,Yes,Traumatic,16,No,Hospital,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
-35,Male,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,39,Yes,Hospital,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,No,Honey,No,Yes
-50,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,40,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 2,Early,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,No
-80,Male,Never,Type 2,11 to 20,Secondary,Yes,Spontaneous,40,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Honey,No,Yes
-54,Male,Never,Type 2,Less than or 10 years,Secondary,Yes,Spontaneous,14,No,Hospital,Planter,Yes,Yes,Neuroischemic,grade 1,Early,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Saline,Yes,No
-70,Male,Never,Type 2,11 to 20,Secondary,No,Spontaneous,45,Yes,Native medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,Honey,No,Yes
-63,Female,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,77,Yes,Hospital,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Honey,No,Yes
-55,Male,Current,Type 2,Less than or 10 years,Unorthodox,No,Traumatic,54,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Honey,No,No
-61,Female,Never,Type 2,11 to 20,Secondary,No,Spontaneous,210,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Saline,No,Yes
-46,Male,Ex,Type 2,11 to 20,Secondary,No,Spontaneous,28,No,Native medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Honey,Yes,No
-55,Female,Never,Type 2,Less than or 10 years,Primary,Yes,Traumatic,31,Yes,Hospital,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Honey,No,No
-65,Female,Never,Type 2,More than 20,Secondary,No,Spontaneous,56,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,Yes
-43,Male,Current,Type 2,Less than or 10 years,Secondary,No,Traumatic,41,Yes,Prayer house,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Saline,No,Yes
-68,Female,Never,Type 2,Less than or 10 years,Unorthodox,Yes,Spontaneous,35,Yes,Hospital,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Saline,No,No
-78,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,60,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Honey,No,No
-31,Male,Ex,Type 1,Less than or 10 years,Secondary,Yes,Spontaneous,40,Yes,Hospital,Dorsal,No,No,Unclassified,grade 2,Early,No,Yes,No,No,No,No,No,No,No,No,No,No,Honey,No,No
-60,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,40,Yes,Native medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Honey,No,No
-40,Male,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,49,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Honey,No,Yes
-58,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Traumatic,17,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Honey,Yes,No
-56,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,55,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
-49,Female,Never,Type 2,11 to 20,Secondary,No,Spontaneous,7,No,Prayer house,Dorsal,Yes,Yes,Neuroischemic,grade 1,Early,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Honey,Yes,No
-59,Male,Ex,Type 2,Less than or 10 years,Tertiary,No,Traumatic,34,Yes,Hospital,Planter,No,Yes,Ischemic,grade 2,Early,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Honey,No,No
-85,Male,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,78,Yes,Native medication,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Honey,Yes,No
-92,Male,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,56,Yes,Native medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Honey,No,No
-55,Female,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,30,Yes,Hospital,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Honey,Yes,No
-49,Male,Never,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,50,Yes,Native medication,Both,No,Yes,Ischemic,grade 3,Advanced,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Saline,No,Yes
-72,Female,Never,Type 2,More than 20,Secondary,No,Traumatic,28,No,Prayer house,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Honey,No,No
-50,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Traumatic,15,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Saline,Yes,No
-65,Female,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,48,Yes,None,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Honey,No,Yes
-60,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,56,Yes,Self medication,Both,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Saline,No,Yes
-58,Male,Ex,Type 2,11 to 20,Secondary,Yes,Spontaneous,42,Yes,Prayer house,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Honey,No,Yes
-60,Female,Never,Type 2,11 to 20,Tertiary,Yes,Spontaneous,16,No,Self medication,Dorsal,No,No,Unclassified,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Honey,Yes,No
-67,Female,Never,Type 2,11 to 20,Tertiary,Yes,Spontaneous,23,No,Native medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Honey,Yes,No
-40,Male,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,37,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
-54,Female,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,21,No,Hospital,Planter,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Honey,Yes,No
-48,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,22,No,Native medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Honey,Yes,No
-40,Female,Never,Type 2,Less than or 10 years,Unorthodox,Yes,Spontaneous,45,Yes,Hospital,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Saline,No,Yes
-55,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,44,Yes,Self medication,Both,No,Yes,Ischemic,grade 4,Advanced,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Saline,No,Yes
-61,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,43,Yes,Native medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Saline,No,No
-57,Male,Ex,Type 2,Less than or 10 years,Secondary,No,Spontaneous,47,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,No
-58,Female,Never,Type 2,11 to 20,Secondary,Yes,Spontaneous,35,Yes,Hospital,Both,Yes,No,Neuropathic,grade 3,Advanced,No,No,Yes,No,No,No,No,No,No,No,No,No,Honey,Yes,No
-50,Female,Never,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,39,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Honey,No,Yes
-39,Female,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,28,No,Hospital,Planter,No,No,Unclassified,grade 3,Advanced,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Honey,No,Yes
-62,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,60,Yes,Native medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Honey,No,Yes
-56,Female,Ex,Type 2,Less than or 10 years,Secondary,Yes,Spontaneous,31,Yes,Hospital,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Honey,No,No
-54,Female,Never,Type 2,11 to 20,Tertiary,No,Spontaneous,56,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Honey,No,Yes
-33,Male,Current,Type 1,Less than or 10 years,Unorthodox,No,Traumatic,22,No,Hospital,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,No,Saline,Yes,No
-50,Female,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,40,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Saline,No,Yes
-71,Male,Never,Type 2,11 to 20,Tertiary,Yes,Spontaneous,28,No,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,No
-80,Female,Never,Type 2,11 to 20,Secondary,No,Spontaneous,35,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Honey,No,No
-55,Female,Never,Type 2,Less than or 10 years,Secondary,Yes,Traumatic,30,Yes,Hospital,Planter,No,No,Unclassified,grade 2,Early,No,No,No,No,Yes,No,No,No,No,No,No,No,Honey,Yes,No
-49,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,68,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Saline,No,Yes
-66,Male,Ex,Type 2,Less than or 10 years,Primary,No,Traumatic,58,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Honey,No,No
-60,Male,Current,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,52,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Honey,No,Yes
-53,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,14,No,Native medication,Dorsal,Yes,No,Neuropathic,grade 1,Early,No,Yes,No,No,No,No,No,No,No,No,No,No,Saline,Yes,No
-43,Male,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,10,No,Hospital,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Honey,Yes,No
-76,Female,Never,Type 2,Less than or 10 years,Tertiary,Yes,Spontaneous,28,No,Self medication,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
-58,Male,Ex,Type 2,Less than or 10 years,Secondary,No,Traumatic,14,No,Hospital,Dorsal,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Honey,Yes,No
-51,Female,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,55,Yes,Hospital,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Saline,No,Yes
-63,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,50,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Honey,Yes,No
-69,Male,Never,Type 2,11 to 20,Primary,No,Traumatic,30,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Saline,No,Yes
-40,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,24,No,Self medication,Dorsal,No,No,Unclassified,grade 2,Early,No,Yes,No,No,No,No,No,No,No,No,No,No,Honey,Yes,No
-66,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,48,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,No,Yes
-75,Female,Never,Type 2,11 to 20,Primary,No,Spontaneous,16,No,Self medication,Planter,Yes,No,Neuropathic,grade 1,Early,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Saline,Yes,No
-85,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,33,Yes,Native medication,Planter,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Saline,No,No
-61,Male,Never,Type 2,11 to 20,Secondary,No,Spontaneous,31,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
-53,Male,Never,Type 2,11 to 20,Unorthodox,No,Spontaneous,47,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Saline,No,Yes
-60,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,16,No,Prayer house,Both,No,No,Unclassified,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Honey,No,No
-70,Male,Never,Type 2,11 to 20,Tertiary,No,Spontaneous,22,No,Self medication,Both,No,Yes,Ischemic,grade 3,Advanced,No,No,Yes,No,No,No,No,No,No,No,No,No,Saline,No,No
-45,Male,Ex,Type 2,11 to 20,Primary,No,Spontaneous,46,Yes,Self medication,Both,Yes,No,Neuropathic,grade 3,Advanced,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Honey,Yes,No
-50,Male,Never,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,36,Yes,Native medication,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Saline,No,Yes
-47,Male,Never,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,55,Yes,Self medication,Both,No,No,Unclassified,grade 5,Advanced,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Saline,No,No
-55,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,15,No,Native medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Saline,Yes,No
-55,Male,Never,Type 2,11 to 20,Secondary,No,Spontaneous,27,No,Self medication,Both,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Saline,No,Yes
-55,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,90,Yes,Native medication,Both,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Saline,No,Yes
-60,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,51,Yes,Native medication,Dorsal,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Honey,No,Yes
-62,Male,Never,Type 2,11 to 20,Tertiary,No,Spontaneous,44,Yes,Self medication,Dorsal,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
-55,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,50,Yes,Self medication,Planter,No,No,Unclassified,grade 4,Advanced,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Saline,No,Yes
-44,Male,Never,Type 2,11 to 20,Unorthodox,No,Spontaneous,120,Yes,Prayer house,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
-40,Male,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,32,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 1,Early,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Honey,Yes,No
-29,Female,Never,Type 1,11 to 20,Secondary,No,Spontaneous,34,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,No,Saline,No,No
-45,Male,Never,Type 2,11 to 20,Primary,No,Spontaneous,14,No,Native medication,Planter,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Saline,No,No
-55,Male,Never,Type 2,11 to 20,Primary,No,Spontaneous,60,Yes,Self medication,Planter,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
-70,Male,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,21,No,Self medication,Dorsal,No,No,Unclassified,grade 3,Advanced,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,No,No
-50,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,36,Yes,Prayer house,Planter,No,Yes,Ischemic,grade 5,Advanced,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Honey,No,Yes
-53,Male,Never,Type 2,11 to 20,Tertiary,No,Spontaneous,21,No,Native medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Honey,No,No
-45,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,45,Yes,Prayer house,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Honey,No,Yes
-30,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,49,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Saline,No,Yes
-60,Female,Never,Type 2,11 to 20,Primary,No,Spontaneous,25,No,Native medication,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Saline,No,No
-40,Male,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,14,No,Self medication,Dorsal,No,No,Unclassified,grade 2,Early,No,No,No,No,No,No,Yes,No,No,No,No,No,Honey,Yes,No
-50,Female,Never,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,42,Yes,Prayer house,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Saline,No,Yes
-38,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,60,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,No,Honey,No,Yes
-75,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,60,Yes,Self medication,Both,No,No,Unclassified,grade 3,Advanced,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,No,No
-60,Female,Never,Type 2,11 to 20,Tertiary,No,Spontaneous,60,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Saline,No,No
-47,Male,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,14,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 5,Advanced,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Saline,No,No
-80,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,240,Yes,Prayer house,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Honey,No,No
-25,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,60,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Saline,No,Yes
-53,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,36,Yes,Self medication,Dorsal,No,No,Ischemic,grade 3,Advanced,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
-60,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,28,No,Native medication,Planter,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Saline,No,No
-49,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,60,Yes,Native medication,Planter,No,No,Unclassified,grade 4,Advanced,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Saline,No,Yes
-50,Male,Never,Type 2,11 to 20,Primary,No,Spontaneous,30,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Saline,Yes,No
-55,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,30,Yes,Native medication,Planter,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Saline,No,No
-45,Male,Current,Type 2,Less than or 10 years,Primary,No,Spontaneous,9,No,Self medication,Planter,No,No,Unclassified,grade 3,Advanced,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Saline,Yes,No
-53,Male,Never,Type 2,11 to 20,Primary,No,Spontaneous,48,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Honey,No,Yes
-70,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,21,No,Native medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Saline,No,No
-50,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,35,Yes,Native medication,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Saline,No,No
-34,Male,Never,Type 1,11 to 20,Unorthodox,No,Spontaneous,35,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Saline,No,Yes
-60,Female,Never,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,23,No,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Saline,No,Yes
-73,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,24,No,Native medication,Both,No,No,Unclassified,grade 3,Advanced,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Saline,Yes,No
-65,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,33,Yes,Self medication,Planter,No,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Honey,No,No
-45,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,60,Yes,Native medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Saline,Yes,No
-43,Male,Ex,Type 2,Less than or 10 years,Primary,No,Spontaneous,21,No,Self medication,Planter,No,No,Unclassified,grade 4,Advanced,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Saline,Yes,No
-47,Male,Ex,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,60,Yes,Native medication,Dorsal,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
-47,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,56,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Saline,No,Yes
-60,Male,Never,Type 2,11 to 20,Secondary,No,Spontaneous,14,No,Prayer house,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Saline,No,No
-55,Male,Never,Type 2,11 to 20,Secondary,No,Spontaneous,41,Yes,Prayer house,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Saline,No,Yes
-35,Male,Never,Type 1,11 to 20,Tertiary,No,Spontaneous,28,No,Prayer house,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Saline,No,No
-49,Male,Never,Type 2,11 to 20,Tertiary,No,Spontaneous,21,No,Self medication,Dorsal,No,Yes,Ischemic,grade 3,Advanced,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Saline,No,No
-53,Male,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,28,No,Prayer house,Both,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Saline,No,No
-66,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,6,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 1,Early,No,No,No,No,No,No,Yes,No,No,No,No,No,Saline,Yes,No
-45,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,11,No,Prayer house,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Saline,Yes,No
-85,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,63,Yes,Native medication,Planter,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Saline,No,Yes
-66,Female,Never,Type 2,11 to 20,Tertiary,No,Spontaneous,14,No,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Saline,No,No
-55,Male,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,21,No,Prayer house,Planter,No,No,Unclassified,grade 3,Advanced,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Saline,No,No
-72,Male,Ex,Type 2,Less than or 10 years,Primary,No,Spontaneous,21,No,Native medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Saline,Yes,No
-56,Male,Never,Type 2,11 to 20,Tertiary,Yes,Spontaneous,40,Yes,Self medication,Dorsal,No,Yes,Ischemic,grade 2,Early,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Saline,Yes,No
-71,Male,Never,Type 2,11 to 20,Secondary,No,Spontaneous,30,Yes,Prayer house,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Honey,Yes,No
-38,Male,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,30,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Saline,Yes,No
-55,Female,Never,Type 2,More than 20,Secondary,Yes,Traumatic,26,No,Hospital,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
-60,Female,Never,Type 2,11 to 20,Tertiary,No,Spontaneous,30,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Saline,No,No
-71,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,365,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,Saline,No,Yes
-49,Female,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,70,Yes,Hospital,Both,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Saline,No,No
-73,Male,Never,Type 2,11 to 20,Primary,No,Traumatic,42,Yes,Self medication,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
-58,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,26,No,Self medication,Dorsal,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
-63,Male,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,37,Yes,Hospital,Both,Yes,No,Neuropathic,grade 3,Advanced,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Saline,No,No
-71,Male,Never,Type 2,Less than or 10 years,Tertiary,Yes,Spontaneous,14,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Saline,Yes,No
-48,Female,Never,Type 2,Less than or 10 years,Secondary,Yes,Traumatic,23,No,Hospital,Both,No,Yes,Ischemic,grade 3,Advanced,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Saline,Yes,No
-74,Female,Never,Type 2,11 to 20,Primary,No,Spontaneous,90,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Saline,No,No
-58,Female,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,60,Yes,Native medication,Both,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Saline,No,No
-50,Female,Never,Type 2,Less than or 10 years,Unorthodox,No,Traumatic,56,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Saline,No,No
-48,Male,Never,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,30,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Saline,Yes,No
-57,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,33,Yes,Native medication,Both,Yes,No,Neuropathic,grade 1,Early,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
-51,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,29,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
-45,Female,Never,Type 2,Less than or 10 years,Secondary,Yes,Traumatic,10,No,Hospital,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Saline,No,No
-45,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,42,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Saline,No,No
-58,Male,Never,Type 2,11 to 20,Secondary,Yes,Spontaneous,50,Yes,Prayer house,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Saline,No,Yes
-45,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,42,Yes,Self medication,Planter,No,No,Unclassified,grade 3,Advanced,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Honey,No,No
-53,Male,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,365,Yes,None,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Saline,No,Yes
-63,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,30,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Saline,Yes,No
-48,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,49,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
-56,Male,Ex,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,28,No,Native medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Saline,No,No
-73,Male,Never,Type 2,11 to 20,Tertiary,No,Traumatic,42,Yes,Hospital,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
-65,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,40,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Saline,No,Yes
-48,Female,Never,Type 2,11 to 20,Tertiary,No,Spontaneous,90,Yes,Native medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Saline,No,No
-46,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,31,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Saline,No,No
-45,Male,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,45,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
-73,Male,Never,Type 2,11 to 20,Tertiary,No,Traumatic,51,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
-32,Male,Never,Type 1,Less than or 10 years,Secondary,Yes,Spontaneous,14,No,Hospital,Both,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Saline,No,No
-66,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,29,Yes,Native medication,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,No,No,No,No,No,No,No,No,No,No,No,Saline,No,No
-70,Male,Never,Type 2,Less than or 10 years,Secondary,Yes,Traumatic,90,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Saline,No,Yes
-35,Male,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,33,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Saline,No,No
-53,Male,Never,Type 2,Less than or 10 years,Secondary,Yes,Traumatic,20,No,None,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Saline,No,No
-75,Female,Never,Type 2,11 to 20,Tertiary,Yes,Traumatic,60,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Saline,No,No
-66,Male,Ex,Type 2,11 to 20,Primary,Yes,Traumatic,30,Yes,Self medication,Planter,No,Yes,Ischemic,grade 2,Early,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
-55,Male,Ex,Type 2,11 to 20,Tertiary,Yes,Traumatic,28,No,Prayer house,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Saline,No,No
-74,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,60,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
-42,Female,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,30,Yes,None,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Saline,Yes,No
-63,Female,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,44,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Saline,No,Yes
-62,Female,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,56,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 2,Early,No,No,No,Yes,No,No,No,No,No,No,No,No,Saline,No,No
-63,Male,Never,Type 2,11 to 20,Primary,No,Traumatic,40,Yes,None,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Saline,No,Yes
-36,Male,Never,Type 1,11 to 20,Primary,No,Traumatic,45,Yes,Native medication,Both,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
-83,Male,Ex,Type 2,11 to 20,Tertiary,No,Spontaneous,45,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Saline,No,Yes
-60,Male,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,40,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Saline,No,No
-76,Male,Never,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,56,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Saline,No,Yes
-52,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,55,Yes,Native medication,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Saline,No,No
-56,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,17,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Saline,No,No
-47,Female,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,35,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Saline,No,No
-83,Female,Never,Type 2,11 to 20,Tertiary,No,Spontaneous,63,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Saline,No,No
-63,Male,Ex,Type 2,11 to 20,Tertiary,No,Traumatic,60,Yes,None,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Honey,No,Yes
-54,Male,Never,Type 2,Less than or 10 years,Tertiary,No,Traumatic,30,Yes,None,Planter,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Saline,No,No
-68,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Traumatic,28,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,Yes,No
-39,Male,Never,Type 2,Less than or 10 years,Tertiary,No,Traumatic,40,Yes,Hospital,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Honey,No,No
-51,Female,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,26,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,Yes,No
-50,Male,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,15,No,None,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Saline,No,No
-47,Male,Never,Type 2,Less than or 10 years,Secondary,Yes,Traumatic,30,Yes,Hospital,Planter,No,No,Unclassified,grade 3,Advanced,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Honey,Yes,No
-65,Female,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,60,Yes,Native medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Honey,No,No
-58,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,365,Yes,Self medication,Planter,No,Yes,Ischemic,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,No,Saline,No,Yes
-51,Male,Ex,Type 2,More than 20,Primary,Yes,Spontaneous,15,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,Saline,No,No
-65,Male,Never,Type 2,Less than or 10 years,Primary,Yes,Traumatic,30,Yes,Hospital,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,Saline,Yes,No
-44,Male,Current,Type 2,Less than or 10 years,Primary,No,Spontaneous,14,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
-20,Female,Never,Type 1,Less than or 10 years,Secondary,Yes,Traumatic,28,No,Hospital,Dorsal,No,No,Unclassified,grade 1,Early,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Honey,Yes,No
-62,Male,Ex,Type 2,11 to 20,Secondary,No,Spontaneous,51,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Honey,No,Yes
-59,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,38,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Honey,No,Yes
-52,Male,Ex,Type 2,More than 20,Primary,No,Spontaneous,50,Yes,Prayer house,Both,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Honey,No,Yes
-65,Male,Ex,Type 2,Less than or 10 years,Primary,No,Spontaneous,28,No,Prayer house,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
-75,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,18,No,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
-50,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,16,No,Self medication,Dorsal,No,No,Unclassified,grade 3,Advanced,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Honey,Yes,No
-68,Female,Never,Type 2,11 to 20,Tertiary,No,Spontaneous,43,Yes,Native medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,Yes
-59,Female,Never,Type 2,Less than or 10 years,Tertiary,Yes,Spontaneous,40,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Saline,No,No
-53,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,38,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Honey,No,No
-62,Female,Never,Type 2,11 to 20,Secondary,No,Traumatic,46,Yes,Hospital,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
-65,Female,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,40,Yes,None,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,Yes
-45,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,58,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Honey,No,Yes
-60,Male,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,18,No,None,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,Yes,No
-50,Male,Current,Type 2,Less than or 10 years,Primary,No,Spontaneous,14,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Saline,No,No
-55,Male,Ex,Type 2,Less than or 10 years,Secondary,No,Traumatic,48,Yes,None,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Saline,No,Yes
-70,Male,Ex,Type 2,11 to 20,Secondary,No,Traumatic,28,No,Hospital,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Saline,No,Yes
-60,Male,Ex,Type 2,11 to 20,Tertiary,Yes,Traumatic,22,No,None,Planter,Yes,No,Neuropathic,grade 2,Early,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Saline,Yes,No
-77,Male,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,34,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,Saline,Yes,No
-45,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,26,No,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Honey,Yes,No
-50,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,90,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Saline,No,Yes
-52,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,60,Yes,Native medication,Both,Yes,No,Neuropathic,grade 1,Early,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Honey,Yes,No
-54,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,30,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,No,No,No,No,No,No,No,No,No,No,No,Honey,Yes,No
-63,Female,Never,Type 2,11 to 20,Secondary,No,Traumatic,60,Yes,Hospital,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,Yes,No
-42,Female,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,28,No,Hospital,Planter,No,No,Unclassified,grade 4,Advanced,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Saline,No,No
-60,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,45,Yes,Self medication,Both,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Honey,No,Yes
-67,Male,Ex,Type 2,11 to 20,Tertiary,Yes,Spontaneous,39,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Saline,No,No
-22,Male,Never,Type 1,Less than or 10 years,Tertiary,Yes,Spontaneous,21,No,None,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Honey,Yes,No
-55,Female,Never,Type 2,Less than or 10 years,Tertiary,Yes,Spontaneous,63,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Honey,No,No
-65,Female,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,47,Yes,Self medication,Both,No,No,Unclassified,grade 5,Advanced,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Honey,No,Yes
-55,Male,Never,Type 2,11 to 20,Secondary,Yes,Spontaneous,120,Yes,Hospital,Both,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Saline,No,Yes
-65,Female,Never,Type 2,11 to 20,Primary,No,Spontaneous,35,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 5,Advanced,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Saline,No,Yes
-52,Male,Never,Type 2,Less than or 10 years,Unorthodox,No,Traumatic,40,Yes,Hospital,Both,No,No,Unclassified,grade 5,Advanced,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Saline,No,Yes
-67,Male,Never,Type 2,11 to 20,Unorthodox,No,Spontaneous,42,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Saline,No,Yes
-42,Male,Never,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,60,Yes,Prayer house,Both,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Saline,No,Yes
-57,Female,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,27,No,Hospital,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Honey,Yes,No
-64,Male,Never,Type 2,11 to 20,Unorthodox,No,Spontaneous,32,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,No,Yes
-67,Male,Never,Type 2,Less than or 10 years,Unorthodox,Yes,Traumatic,21,No,Hospital,Dorsal,No,No,Unclassified,grade 2,Early,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Honey,Yes,No
-43,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,73,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Saline,No,No
-70,Female,Never,Type 2,11 to 20,Primary,No,Spontaneous,60,Yes,Prayer house,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Saline,No,No
-31,Male,Never,Type 2,Less than or 10 years,Unorthodox,No,Traumatic,31,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Saline,No,No
-80,Female,Never,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,31,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 2,Early,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Honey,No,No
-54,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,28,No,Native medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,Yes
-75,Male,Never,Type 2,Less than or 10 years,Secondary,Yes,Traumatic,14,No,Hospital,Dorsal,Yes,Yes,Neuroischemic,grade 2,Early,No,No,No,No,No,No,No,No,Yes,No,No,No,Honey,Yes,No
-50,Female,Never,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,41,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Saline,No,No
-80,Male,Never,Type 2,Less than or 10 years,Tertiary,Yes,Spontaneous,14,No,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 2,Early,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Saline,No,No
-65,Female,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,28,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Saline,No,No
-51,Male,Current,Type 2,Less than or 10 years,Tertiary,Yes,Spontaneous,56,Yes,Hospital,Both,No,Yes,Ischemic,grade 4,Advanced,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Saline,No,Yes
-55,Male,Ex,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,44,Yes,Hospital,Dorsal,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Saline,No,Yes
-55,Male,Never,Type 2,Less than or 10 years,Primary,Yes,Spontaneous,35,Yes,Self medication,Dorsal,No,No,Unclassified,grade 2,Early,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Saline,No,No
-54,Male,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,21,No,None,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Saline,Yes,No
-40,Female,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,56,Yes,Self medication,Both,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Saline,No,No
-75,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,40,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Saline,No,No
-25,Female,Never,Type 1,Less than or 10 years,Primary,No,Traumatic,42,Yes,None,Dorsal,No,No,Unclassified,grade 2,Early,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Honey,Yes,No
-54,Male,Ex,Type 2,Less than or 10 years,Secondary,No,Spontaneous,35,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Saline,No,No
-58,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,180,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Saline,No,Yes
-72,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,135,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Honey,No,Yes
-53,Male,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,60,Yes,None,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Honey,Yes,No
-45,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,30,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Honey,Yes,No
-55,Male,Never,Type 2,Less than or 10 years,Tertiary,No,Traumatic,35,Yes,Hospital,Both,Yes,No,Neuropathic,grade 2,Early,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Saline,Yes,No
-54,Female,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,60,Yes,None,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
-38,Female,Never,Type 2,Less than or 10 years,Secondary,Yes,Traumatic,21,No,Hospital,Both,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Honey,No,No
-69,Male,Ex,Type 2,11 to 20,Secondary,Yes,Traumatic,31,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Saline,No,No
-45,Male,Ex,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,40,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Saline,Yes,No
-45,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,37,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,Honey,Yes,No
-50,Male,Never,Type 2,Less than or 10 years,Primary,Yes,Traumatic,21,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Honey,Yes,No
-34,Male,Current,Type 2,Less than or 10 years,Secondary,No,Traumatic,50,Yes,Prayer house,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,Honey,No,Yes
-80,Female,Never,Type 2,11 to 20,Primary,No,Spontaneous,44,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Honey,No,Yes
-50,Female,Never,Type 2,11 to 20,Secondary,No,Traumatic,50,Yes,None,Dorsal,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,Yes
-69,Male,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,42,Yes,Prayer house,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Saline,No,Yes
-50,Male,Never,Type 2,11 to 20,Secondary,No,Spontaneous,23,No,Self medication,Planter,Yes,Yes,Neuroischemic,grade 2,Early,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Honey,No,No
-48,Male,Never,Type 2,Less than or 10 years,Primary,Yes,Traumatic,17,No,Hospital,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Honey,No,No
-42,Male,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,56,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Honey,No,Yes
-55,Female,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,18,No,Native medication,Both,No,No,Unclassified,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
-65,Female,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,49,Yes,None,Planter,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Honey,No,Yes
-69,Female,Never,Type 2,11 to 20,Tertiary,Yes,Spontaneous,40,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Saline,No,Yes
-65,Female,Never,Type 2,11 to 20,Tertiary,Yes,Traumatic,21,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 1,Early,No,No,No,No,Yes,No,No,No,No,No,No,No,Saline,Yes,No
-40,Female,Never,Type 2,Less than or 10 years,Tertiary,Yes,Spontaneous,30,Yes,Hospital,Both,No,No,Unclassified,grade 2,Early,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Honey,Yes,No
-65,Male,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,54,Yes,None,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Honey,No,Yes
-56,Male,Never,Type 2,Less than or 10 years,Secondary,Yes,Spontaneous,30,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Honey,No,Yes
-80,Female,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,40,Yes,Hospital,Dorsal,No,No,Unclassified,grade 2,Early,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Saline,Yes,No
-55,Female,Never,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,60,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Saline,No,Yes
-58,Male,Ex,Type 2,Less than or 10 years,Secondary,Yes,Spontaneous,120,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Saline,No,Yes
-65,Male,Never,Type 2,11 to 20,Tertiary,No,Spontaneous,30,Yes,Self medication,Dorsal,No,Yes,Ischemic,grade 2,Early,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Saline,No,Yes
-40,Female,Never,Type 2,Less than or 10 years,Secondary,Yes,Spontaneous,48,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Saline,No,Yes
-50,Male,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,90,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Saline,No,Yes
-51,Male,Never,Type 2,11 to 20,Tertiary,Yes,Spontaneous,25,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Saline,Yes,No
-55,Male,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,30,Yes,None,Both,Yes,Yes,Ischemic,grade 2,Early,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,Yes,No
-55,Female,Never,Type 2,Less than or 10 years,Primary,Yes,Spontaneous,36,Yes,Self medication,Both,Yes,Yes,Ischemic,grade 5,Advanced,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Saline,No,Yes
-70,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,30,Yes,Self medication,Dorsal,Yes,Yes,Ischemic,grade 2,Early,No,No,No,No,Yes,No,No,No,No,No,No,No,Honey,Yes,No
-50,Female,Never,Type 2,Less than or 10 years,Primary,Yes,Traumatic,30,Yes,Hospital,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Honey,No,No
-50,Female,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,33,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 2,Early,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Saline,No,No
-52,Female,Never,Type 2,Less than or 10 years,Secondary,Yes,Traumatic,66,Yes,Hospital,Dorsal,No,No,Unclassified,grade 2,Early,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Saline,No,Yes
-50,Male,Current,Type 2,Less than or 10 years,Primary,No,Spontaneous,57,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Saline,No,Yes
-60,Male,Never,Type 2,Less than or 10 years,Primary,No,Spontaneous,42,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Saline,No,Yes
-78,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,47,Yes,Native medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Saline,Yes,No
-49,Male,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,69,Yes,None,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Honey,No,No
-43,Male,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,22,No,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Honey,Yes,No
-50,Male,Never,Type 2,Less than or 10 years,Secondary,Yes,Spontaneous,43,Yes,Hospital,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Saline,Yes,No
-53,Male,Ex,Type 2,Less than or 10 years,Tertiary,Yes,Spontaneous,34,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Honey,No,No
-65,Male,Never,Type 2,Less than or 10 years,Tertiary,Yes,Spontaneous,41,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Saline,No,No
-19,Male,Current,Type 1,Less than or 10 years,Primary,No,Traumatic,27,No,Hospital,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Honey,No,No
-87,Male,Never,Type 2,More than 20,Secondary,No,Spontaneous,67,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Saline,Yes,No
-52,Male,Never,Type 2,Less than or 10 years,Unorthodox,No,Traumatic,54,Yes,Native medication,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Honey,No,No
-48,Female,Never,Type 2,11 to 20,Secondary,No,Spontaneous,33,Yes,Self medication,Planter,No,No,Unclassified,grade 1,Early,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Saline,Yes,No
-48,Male,Current,Type 2,More than 20,Tertiary,No,Spontaneous,45,Yes,Prayer house,Both,No,Yes,Ischemic,grade 1,Early,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Honey,Yes,No
-55,Male,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,90,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Honey,No,No
-30,Male,Ex,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,60,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Honey,No,Yes
-34,Female,Never,Type 2,Less than or 10 years,Primary,No,Traumatic,72,Yes,None,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Honey,No,Yes
-54,Female,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,55,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Honey,No,Yes
-55,Male,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,53,Yes,Native medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Saline,No,Yes
-61,Male,Ex,Type 2,Less than or 10 years,Secondary,Yes,Spontaneous,54,Yes,Hospital,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Saline,No,No
-54,Female,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,19,No,None,Both,Yes,Yes,Neuroischemic,grade 2,Early,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Honey,No,No
-40,Male,Ex,Type 1,11 to 20,Secondary,Yes,Spontaneous,14,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Honey,Yes,No
-71,Male,Ex,Type 2,Less than or 10 years,Primary,Yes,Spontaneous,63,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,No,No,No,No,No,No,No,No,No,Yes,Honey,No,Yes
-80,Male,Never,Type 2,Less than or 10 years,Tertiary,Yes,Spontaneous,21,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Honey,Yes,No
-55,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,54,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Honey,No,Yes
-60,Male,Never,Type 2,11 to 20,Secondary,Yes,Traumatic,35,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Honey,No,Yes
-57,Female,Never,Type 2,Less than or 10 years,Tertiary,Yes,Traumatic,40,Yes,Hospital,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,Saline,No,Yes
-48,Male,Never,Type 2,Less than or 10 years,Tertiary,Yes,Spontaneous,35,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Honey,No,No
-57,Male,Ex,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,23,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
-65,Female,Current,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,54,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,Honey,No,Yes
-75,Male,Never,Type 2,Less than or 10 years,Tertiary,Yes,Spontaneous,45,Yes,Prayer house,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Honey,No,No
-49,Female,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,21,No,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Honey,Yes,No
-54,Male,Never,Type 2,Less than or 10 years,Secondary,Yes,Spontaneous,14,No,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Honey,No,No
-65,Male,Ex,Type 2,Less than or 10 years,Secondary,No,Traumatic,28,No,Prayer house,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Honey,No,No
-66,Female,Never,Type 2,Less than or 10 years,Tertiary,Yes,Spontaneous,33,Yes,Self medication,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Saline,No,No
-61,Male,Never,Type 2,Less than or 10 years,Secondary,No,Traumatic,21,No,Hospital,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Honey,No,No
-57,Female,Never,Type 2,Less than or 10 years,Secondary,No,Spontaneous,180,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Honey,No,Yes
-53,Male,Current,Type 2,Less than or 10 years,Tertiary,No,Traumatic,19,No,None,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
-50,Female,Never,Type 2,11 to 20,Secondary,No,Traumatic,87,Yes,None,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Honey,Yes,No
-49,Male,Current,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,72,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Saline,Yes,No
-58,Female,Never,Type 2,Less than or 10 years,Unorthodox,No,Spontaneous,54,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
-59,Female,Never,Type 2,Less than or 10 years,Tertiary,No,Spontaneous,78,Yes,None,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Honey,No,No
-42,Male,Current,Type 2,Less than or 10 years,Secondary,Yes,Spontaneous,32,Yes,Hospital,Dorsal,No,No,Unclassified,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,No,Honey,Yes,No
+DMtype,Age,Gender,Smoking,DuratnCategory,Facility,Footeducate,Onset,Ulcerduration,Over1month,FirstTreat,Site,Neuropthy,PAD,UlcerType,Wagner,Severity,Gangrene,Infected,PrevUlcer,Barefoot,HTN,Shock,Anemia,HE,Hypog,Stroke,Heartfail,Renal,Dressing,Healing,Amputation
+Type 2,54,Male,Never,Less than or 10 years,Primary,No,Spontaneous,90,Yes,Prayer house,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Honey,No,Yes
+Type 2,60,Female,Never,11 to 20,Secondary,No,Spontaneous,39,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,Yes
+Type 2,42,Male,Ex,Less than or 10 years,Secondary,No,Spontaneous,54,Yes,Native medication,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Honey,No,No
+Type 2,67,Male,Ex,Less than or 10 years,Tertiary,No,Spontaneous,18,No,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Honey,No,No
+Type 2,45,Female,Never,Less than or 10 years,Tertiary,No,Traumatic,24,No,Self medication,Planter,No,No,Unclassified,grade 2,Early,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Honey,Yes,No
+Type 2,54,Male,Ex,Less than or 10 years,Primary,No,Traumatic,44,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,Honey,No,Yes
+Type 2,62,Male,Ex,Less than or 10 years,Unorthodox,Yes,Traumatic,180,Yes,Prayer house,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,Yes,Honey,No,Yes
+Type 1,24,Male,Current,Less than or 10 years,Tertiary,No,Traumatic,30,Yes,Hospital,Planter,No,No,Unclassified,grade 3,Advanced,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Saline,Yes,No
+Type 2,71,Female,Never,11 to 20,Primary,Yes,Spontaneous,60,Yes,Prayer house,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,Honey,No,No
+Type 2,60,Female,Never,Less than or 10 years,Tertiary,Yes,Traumatic,12,No,Hospital,Planter,No,Yes,Ischemic,grade 1,Early,No,No,Yes,No,No,No,No,No,No,No,No,No,Honey,Yes,No
+Type 2,56,Male,Ex,Less than or 10 years,Primary,No,Spontaneous,33,Yes,Native medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,61,Male,Never,11 to 20,Tertiary,Yes,Traumatic,16,No,Hospital,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
+Type 2,35,Male,Never,Less than or 10 years,Primary,No,Traumatic,39,Yes,Hospital,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,No,Honey,No,Yes
+Type 2,50,Female,Never,Less than or 10 years,Tertiary,No,Spontaneous,40,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 2,Early,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,No
+Type 2,80,Male,Never,11 to 20,Secondary,Yes,Spontaneous,40,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Honey,No,Yes
+Type 2,54,Male,Never,Less than or 10 years,Secondary,Yes,Spontaneous,14,No,Hospital,Planter,Yes,Yes,Neuroischemic,grade 1,Early,No,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Saline,Yes,No
+Type 2,70,Male,Never,11 to 20,Secondary,No,Spontaneous,45,Yes,Native medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,Yes,No,No,Honey,No,Yes
+Type 2,63,Female,Never,Less than or 10 years,Primary,No,Traumatic,77,Yes,Hospital,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Honey,No,Yes
+Type 2,55,Male,Current,Less than or 10 years,Unorthodox,No,Traumatic,54,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Honey,No,No
+Type 2,61,Female,Never,11 to 20,Secondary,No,Spontaneous,210,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,Yes,Saline,No,Yes
+Type 2,46,Male,Ex,11 to 20,Secondary,No,Spontaneous,28,No,Native medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Honey,Yes,No
+Type 2,55,Female,Never,Less than or 10 years,Primary,Yes,Traumatic,31,Yes,Hospital,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Honey,No,No
+Type 2,65,Female,Never,More than 20,Secondary,No,Spontaneous,56,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,Yes
+Type 2,43,Male,Current,Less than or 10 years,Secondary,No,Traumatic,41,Yes,Prayer house,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,No,Saline,No,Yes
+Type 2,68,Female,Never,Less than or 10 years,Unorthodox,Yes,Spontaneous,35,Yes,Hospital,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,Yes,No,Saline,No,No
+Type 2,78,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,60,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Honey,No,No
+Type 1,31,Male,Ex,Less than or 10 years,Secondary,Yes,Spontaneous,40,Yes,Hospital,Dorsal,No,No,Unclassified,grade 2,Early,No,Yes,No,No,No,No,No,No,No,No,No,No,Honey,No,No
+Type 2,60,Female,Never,Less than or 10 years,Primary,No,Spontaneous,40,Yes,Native medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Honey,No,No
+Type 2,40,Male,Never,Less than or 10 years,Secondary,No,Traumatic,49,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Honey,No,Yes
+Type 2,58,Female,Never,Less than or 10 years,Tertiary,No,Traumatic,17,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,Yes,No,No,No,No,No,No,Yes,Honey,Yes,No
+Type 2,56,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,55,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,49,Female,Never,11 to 20,Secondary,No,Spontaneous,7,No,Prayer house,Dorsal,Yes,Yes,Neuroischemic,grade 1,Early,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Honey,Yes,No
+Type 2,59,Male,Ex,Less than or 10 years,Tertiary,No,Traumatic,34,Yes,Hospital,Planter,No,Yes,Ischemic,grade 2,Early,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Honey,No,No
+Type 2,85,Male,Never,Less than or 10 years,Secondary,No,Spontaneous,78,Yes,Native medication,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,Yes,Honey,Yes,No
+Type 2,92,Male,Never,Less than or 10 years,Secondary,No,Spontaneous,56,Yes,Native medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Honey,No,No
+Type 2,55,Female,Never,Less than or 10 years,Secondary,No,Traumatic,30,Yes,Hospital,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Honey,Yes,No
+Type 2,49,Male,Never,Less than or 10 years,Unorthodox,No,Spontaneous,50,Yes,Native medication,Both,No,Yes,Ischemic,grade 3,Advanced,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Saline,No,Yes
+Type 2,72,Female,Never,More than 20,Secondary,No,Traumatic,28,No,Prayer house,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Honey,No,No
+Type 2,50,Female,Never,Less than or 10 years,Tertiary,No,Traumatic,15,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Saline,Yes,No
+Type 2,65,Female,Never,Less than or 10 years,Primary,No,Traumatic,48,Yes,None,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Honey,No,Yes
+Type 2,60,Female,Never,Less than or 10 years,Primary,No,Spontaneous,56,Yes,Self medication,Both,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Saline,No,Yes
+Type 2,58,Male,Ex,11 to 20,Secondary,Yes,Spontaneous,42,Yes,Prayer house,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,No,Honey,No,Yes
+Type 2,60,Female,Never,11 to 20,Tertiary,Yes,Spontaneous,16,No,Self medication,Dorsal,No,No,Unclassified,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Honey,Yes,No
+Type 2,67,Female,Never,11 to 20,Tertiary,Yes,Spontaneous,23,No,Native medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Honey,Yes,No
+Type 2,40,Male,Never,Less than or 10 years,Secondary,No,Spontaneous,37,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,54,Female,Never,Less than or 10 years,Secondary,No,Traumatic,21,No,Hospital,Planter,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Honey,Yes,No
+Type 2,48,Male,Never,Less than or 10 years,Primary,No,Spontaneous,22,No,Native medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Honey,Yes,No
+Type 2,40,Female,Never,Less than or 10 years,Unorthodox,Yes,Spontaneous,45,Yes,Hospital,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Saline,No,Yes
+Type 2,55,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,44,Yes,Self medication,Both,No,Yes,Ischemic,grade 4,Advanced,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Saline,No,Yes
+Type 2,61,Female,Never,Less than or 10 years,Primary,No,Spontaneous,43,Yes,Native medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,Yes,Saline,No,No
+Type 2,57,Male,Ex,Less than or 10 years,Secondary,No,Spontaneous,47,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,No
+Type 2,58,Female,Never,11 to 20,Secondary,Yes,Spontaneous,35,Yes,Hospital,Both,Yes,No,Neuropathic,grade 3,Advanced,No,No,Yes,No,No,No,No,No,No,No,No,No,Honey,Yes,No
+Type 2,50,Female,Never,Less than or 10 years,Unorthodox,No,Spontaneous,39,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Honey,No,Yes
+Type 2,39,Female,Never,Less than or 10 years,Secondary,No,Traumatic,28,No,Hospital,Planter,No,No,Unclassified,grade 3,Advanced,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Honey,No,Yes
+Type 2,62,Male,Never,Less than or 10 years,Primary,No,Spontaneous,60,Yes,Native medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,Honey,No,Yes
+Type 2,56,Female,Ex,Less than or 10 years,Secondary,Yes,Spontaneous,31,Yes,Hospital,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Honey,No,No
+Type 2,54,Female,Never,11 to 20,Tertiary,No,Spontaneous,56,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Honey,No,Yes
+Type 1,33,Male,Current,Less than or 10 years,Unorthodox,No,Traumatic,22,No,Hospital,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,No,Saline,Yes,No
+Type 2,50,Female,Never,Less than or 10 years,Secondary,No,Traumatic,40,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,No,Yes,Yes,No,No,No,Yes,No,No,No,Saline,No,Yes
+Type 2,71,Male,Never,11 to 20,Tertiary,Yes,Spontaneous,28,No,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,No
+Type 2,80,Female,Never,11 to 20,Secondary,No,Spontaneous,35,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Honey,No,No
+Type 2,55,Female,Never,Less than or 10 years,Secondary,Yes,Traumatic,30,Yes,Hospital,Planter,No,No,Unclassified,grade 2,Early,No,No,No,No,Yes,No,No,No,No,No,No,No,Honey,Yes,No
+Type 2,49,Female,Never,Less than or 10 years,Primary,No,Spontaneous,68,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Saline,No,Yes
+Type 2,66,Male,Ex,Less than or 10 years,Primary,No,Traumatic,58,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Honey,No,No
+Type 2,60,Male,Current,Less than or 10 years,Unorthodox,No,Spontaneous,52,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No,No,Yes,Honey,No,Yes
+Type 2,53,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,14,No,Native medication,Dorsal,Yes,No,Neuropathic,grade 1,Early,No,Yes,No,No,No,No,No,No,No,No,No,No,Saline,Yes,No
+Type 2,43,Male,Never,Less than or 10 years,Tertiary,Yes,Traumatic,10,No,Hospital,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,Yes,No,No,No,Yes,No,No,No,Honey,Yes,No
+Type 2,76,Female,Never,Less than or 10 years,Tertiary,Yes,Spontaneous,28,No,Self medication,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,58,Male,Ex,Less than or 10 years,Secondary,No,Traumatic,14,No,Hospital,Dorsal,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,No,Yes,No,No,No,No,No,No,No,No,Honey,Yes,No
+Type 2,51,Female,Never,Less than or 10 years,Secondary,No,Traumatic,55,Yes,Hospital,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Saline,No,Yes
+Type 2,63,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,50,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Honey,Yes,No
+Type 2,69,Male,Never,11 to 20,Primary,No,Traumatic,30,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Saline,No,Yes
+Type 2,40,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,24,No,Self medication,Dorsal,No,No,Unclassified,grade 2,Early,No,Yes,No,No,No,No,No,No,No,No,No,No,Honey,Yes,No
+Type 2,66,Male,Never,Less than or 10 years,Primary,No,Spontaneous,48,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,No,Yes
+Type 2,75,Female,Never,11 to 20,Primary,No,Spontaneous,16,No,Self medication,Planter,Yes,No,Neuropathic,grade 1,Early,No,No,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Saline,Yes,No
+Type 2,85,Male,Never,Less than or 10 years,Primary,No,Spontaneous,33,Yes,Native medication,Planter,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Saline,No,No
+Type 2,61,Male,Never,11 to 20,Secondary,No,Spontaneous,31,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,53,Male,Never,11 to 20,Unorthodox,No,Spontaneous,47,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,60,Female,Never,Less than or 10 years,Tertiary,No,Spontaneous,16,No,Prayer house,Both,No,No,Unclassified,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,No,No,No,No,No,No,Honey,No,No
+Type 2,70,Male,Never,11 to 20,Tertiary,No,Spontaneous,22,No,Self medication,Both,No,Yes,Ischemic,grade 3,Advanced,No,No,Yes,No,No,No,No,No,No,No,No,No,Saline,No,No
+Type 2,45,Male,Ex,11 to 20,Primary,No,Spontaneous,46,Yes,Self medication,Both,Yes,No,Neuropathic,grade 3,Advanced,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Honey,Yes,No
+Type 2,50,Male,Never,Less than or 10 years,Unorthodox,No,Spontaneous,36,Yes,Native medication,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Saline,No,Yes
+Type 2,47,Male,Never,Less than or 10 years,Unorthodox,No,Spontaneous,55,Yes,Self medication,Both,No,No,Unclassified,grade 5,Advanced,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,55,Female,Never,Less than or 10 years,Tertiary,No,Spontaneous,15,No,Native medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Saline,Yes,No
+Type 2,55,Male,Never,11 to 20,Secondary,No,Spontaneous,27,No,Self medication,Both,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Saline,No,Yes
+Type 2,55,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,90,Yes,Native medication,Both,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Saline,No,Yes
+Type 2,60,Female,Never,Less than or 10 years,Primary,No,Spontaneous,51,Yes,Native medication,Dorsal,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Honey,No,Yes
+Type 2,62,Male,Never,11 to 20,Tertiary,No,Spontaneous,44,Yes,Self medication,Dorsal,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,55,Male,Never,Less than or 10 years,Primary,No,Spontaneous,50,Yes,Self medication,Planter,No,No,Unclassified,grade 4,Advanced,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,44,Male,Never,11 to 20,Unorthodox,No,Spontaneous,120,Yes,Prayer house,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,No,No,No,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,40,Male,Never,Less than or 10 years,Tertiary,No,Spontaneous,32,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 1,Early,No,No,Yes,No,No,No,Yes,No,No,No,No,No,Honey,Yes,No
+Type 1,29,Female,Never,11 to 20,Secondary,No,Spontaneous,34,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,No,Saline,No,No
+Type 2,45,Male,Never,11 to 20,Primary,No,Spontaneous,14,No,Native medication,Planter,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,No,No,No,No,No,No,No,Saline,No,No
+Type 2,55,Male,Never,11 to 20,Primary,No,Spontaneous,60,Yes,Self medication,Planter,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,70,Male,Never,Less than or 10 years,Tertiary,No,Spontaneous,21,No,Self medication,Dorsal,No,No,Unclassified,grade 3,Advanced,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,No,No
+Type 2,50,Male,Never,Less than or 10 years,Primary,No,Spontaneous,36,Yes,Prayer house,Planter,No,Yes,Ischemic,grade 5,Advanced,Yes,No,No,Yes,No,No,No,Yes,No,No,No,No,Honey,No,Yes
+Type 2,53,Male,Never,11 to 20,Tertiary,No,Spontaneous,21,No,Native medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Honey,No,No
+Type 2,45,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,45,Yes,Prayer house,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,Yes,Honey,No,Yes
+Type 2,30,Female,Never,Less than or 10 years,Primary,No,Spontaneous,49,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Saline,No,Yes
+Type 2,60,Female,Never,11 to 20,Primary,No,Spontaneous,25,No,Native medication,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Saline,No,No
+Type 2,40,Male,Never,Less than or 10 years,Tertiary,No,Spontaneous,14,No,Self medication,Dorsal,No,No,Unclassified,grade 2,Early,No,No,No,No,No,No,Yes,No,No,No,No,No,Honey,Yes,No
+Type 2,50,Female,Never,Less than or 10 years,Unorthodox,No,Spontaneous,42,Yes,Prayer house,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Saline,No,Yes
+Type 2,38,Female,Never,Less than or 10 years,Primary,No,Spontaneous,60,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,No,Honey,No,Yes
+Type 2,75,Female,Never,Less than or 10 years,Tertiary,No,Spontaneous,60,Yes,Self medication,Both,No,No,Unclassified,grade 3,Advanced,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,No,No
+Type 2,60,Female,Never,11 to 20,Tertiary,No,Spontaneous,60,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,No,No,No,No,No,No,Yes,No,No,No,No,Saline,No,No
+Type 2,47,Male,Never,Less than or 10 years,Tertiary,No,Spontaneous,14,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 5,Advanced,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Saline,No,No
+Type 2,80,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,240,Yes,Prayer house,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Honey,No,No
+Type 2,25,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,60,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Saline,No,Yes
+Type 2,53,Male,Never,Less than or 10 years,Primary,No,Spontaneous,36,Yes,Self medication,Dorsal,No,No,Ischemic,grade 3,Advanced,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,60,Female,Never,Less than or 10 years,Tertiary,No,Spontaneous,28,No,Native medication,Planter,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Saline,No,No
+Type 2,49,Male,Never,Less than or 10 years,Primary,No,Spontaneous,60,Yes,Native medication,Planter,No,No,Unclassified,grade 4,Advanced,Yes,Yes,Yes,No,No,Yes,Yes,Yes,Yes,Yes,No,No,Saline,No,Yes
+Type 2,50,Male,Never,11 to 20,Primary,No,Spontaneous,30,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,No,No,Yes,Yes,No,No,No,No,No,No,Saline,Yes,No
+Type 2,55,Female,Never,Less than or 10 years,Primary,No,Spontaneous,30,Yes,Native medication,Planter,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,Saline,No,No
+Type 2,45,Male,Current,Less than or 10 years,Primary,No,Spontaneous,9,No,Self medication,Planter,No,No,Unclassified,grade 3,Advanced,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Saline,Yes,No
+Type 2,53,Male,Never,11 to 20,Primary,No,Spontaneous,48,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Honey,No,Yes
+Type 2,70,Male,Never,Less than or 10 years,Primary,No,Spontaneous,21,No,Native medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,Saline,No,No
+Type 2,50,Female,Never,Less than or 10 years,Tertiary,No,Spontaneous,35,Yes,Native medication,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No,No,No,Saline,No,No
+Type 1,34,Male,Never,11 to 20,Unorthodox,No,Spontaneous,35,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,60,Female,Never,Less than or 10 years,Unorthodox,No,Spontaneous,23,No,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,73,Male,Never,Less than or 10 years,Primary,No,Spontaneous,24,No,Native medication,Both,No,No,Unclassified,grade 3,Advanced,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Saline,Yes,No
+Type 2,65,Male,Never,Less than or 10 years,Primary,No,Spontaneous,33,Yes,Self medication,Planter,No,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,No,Yes,Yes,No,Yes,No,No,Yes,No,Honey,No,No
+Type 2,45,Male,Never,Less than or 10 years,Primary,No,Spontaneous,60,Yes,Native medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Saline,Yes,No
+Type 2,43,Male,Ex,Less than or 10 years,Primary,No,Spontaneous,21,No,Self medication,Planter,No,No,Unclassified,grade 4,Advanced,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Saline,Yes,No
+Type 2,47,Male,Ex,Less than or 10 years,Tertiary,No,Spontaneous,60,Yes,Native medication,Dorsal,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,47,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,56,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,Yes,Yes,Yes,No,No,Yes,Yes,No,No,No,Saline,No,Yes
+Type 2,60,Male,Never,11 to 20,Secondary,No,Spontaneous,14,No,Prayer house,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Saline,No,No
+Type 2,55,Male,Never,11 to 20,Secondary,No,Spontaneous,41,Yes,Prayer house,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Saline,No,Yes
+Type 1,35,Male,Never,11 to 20,Tertiary,No,Spontaneous,28,No,Prayer house,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Saline,No,No
+Type 2,49,Male,Never,11 to 20,Tertiary,No,Spontaneous,21,No,Self medication,Dorsal,No,Yes,Ischemic,grade 3,Advanced,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,53,Male,Never,Less than or 10 years,Tertiary,No,Spontaneous,28,No,Prayer house,Both,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,66,Male,Never,Less than or 10 years,Primary,No,Spontaneous,6,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 1,Early,No,No,No,No,No,No,Yes,No,No,No,No,No,Saline,Yes,No
+Type 2,45,Male,Never,Less than or 10 years,Primary,No,Spontaneous,11,No,Prayer house,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Saline,Yes,No
+Type 2,85,Male,Never,Less than or 10 years,Primary,No,Spontaneous,63,Yes,Native medication,Planter,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,66,Female,Never,11 to 20,Tertiary,No,Spontaneous,14,No,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,No,Saline,No,No
+Type 2,55,Male,Never,Less than or 10 years,Tertiary,No,Spontaneous,21,No,Prayer house,Planter,No,No,Unclassified,grade 3,Advanced,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,72,Male,Ex,Less than or 10 years,Primary,No,Spontaneous,21,No,Native medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Saline,Yes,No
+Type 2,56,Male,Never,11 to 20,Tertiary,Yes,Spontaneous,40,Yes,Self medication,Dorsal,No,Yes,Ischemic,grade 2,Early,No,Yes,No,No,Yes,No,No,No,Yes,No,No,Yes,Saline,Yes,No
+Type 2,71,Male,Never,11 to 20,Secondary,No,Spontaneous,30,Yes,Prayer house,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,No,No,No,No,No,No,Honey,Yes,No
+Type 2,38,Male,Never,Less than or 10 years,Tertiary,Yes,Traumatic,30,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,No,No,Yes,No,Yes,No,No,No,Saline,Yes,No
+Type 2,55,Female,Never,More than 20,Secondary,Yes,Traumatic,26,No,Hospital,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
+Type 2,60,Female,Never,11 to 20,Tertiary,No,Spontaneous,30,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Saline,No,No
+Type 2,71,Female,Never,Less than or 10 years,Primary,No,Spontaneous,365,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,Saline,No,Yes
+Type 2,49,Female,Never,Less than or 10 years,Primary,No,Traumatic,70,Yes,Hospital,Both,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,No,Saline,No,No
+Type 2,73,Male,Never,11 to 20,Primary,No,Traumatic,42,Yes,Self medication,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,58,Male,Never,Less than or 10 years,Primary,No,Spontaneous,26,No,Self medication,Dorsal,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,63,Male,Never,Less than or 10 years,Tertiary,Yes,Traumatic,37,Yes,Hospital,Both,Yes,No,Neuropathic,grade 3,Advanced,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Saline,No,No
+Type 2,71,Male,Never,Less than or 10 years,Tertiary,Yes,Spontaneous,14,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Saline,Yes,No
+Type 2,48,Female,Never,Less than or 10 years,Secondary,Yes,Traumatic,23,No,Hospital,Both,No,Yes,Ischemic,grade 3,Advanced,No,Yes,No,Yes,No,No,No,No,Yes,No,No,No,Saline,Yes,No
+Type 2,74,Female,Never,11 to 20,Primary,No,Spontaneous,90,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Saline,No,No
+Type 2,58,Female,Never,Less than or 10 years,Primary,No,Traumatic,60,Yes,Native medication,Both,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,50,Female,Never,Less than or 10 years,Unorthodox,No,Traumatic,56,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,Yes,Yes,No,No,Yes,No,No,No,No,Yes,Saline,No,No
+Type 2,48,Male,Never,Less than or 10 years,Unorthodox,No,Spontaneous,30,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Saline,Yes,No
+Type 2,57,Female,Never,Less than or 10 years,Primary,No,Spontaneous,33,Yes,Native medication,Both,Yes,No,Neuropathic,grade 1,Early,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,51,Female,Never,Less than or 10 years,Primary,No,Spontaneous,29,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,45,Female,Never,Less than or 10 years,Secondary,Yes,Traumatic,10,No,Hospital,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,No,Saline,No,No
+Type 2,45,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,42,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Saline,No,No
+Type 2,58,Male,Never,11 to 20,Secondary,Yes,Spontaneous,50,Yes,Prayer house,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,Yes,Saline,No,Yes
+Type 2,45,Female,Never,Less than or 10 years,Tertiary,No,Spontaneous,42,Yes,Self medication,Planter,No,No,Unclassified,grade 3,Advanced,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Honey,No,No
+Type 2,53,Male,Never,Less than or 10 years,Secondary,No,Traumatic,365,Yes,None,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,Yes,Yes,No,Yes,No,No,No,Saline,No,Yes
+Type 2,63,Female,Never,Less than or 10 years,Tertiary,No,Spontaneous,30,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Saline,Yes,No
+Type 2,48,Female,Never,Less than or 10 years,Tertiary,No,Spontaneous,49,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,56,Male,Ex,Less than or 10 years,Tertiary,No,Spontaneous,28,No,Native medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Saline,No,No
+Type 2,73,Male,Never,11 to 20,Tertiary,No,Traumatic,42,Yes,Hospital,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,65,Female,Never,Less than or 10 years,Primary,No,Spontaneous,40,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Saline,No,Yes
+Type 2,48,Female,Never,11 to 20,Tertiary,No,Spontaneous,90,Yes,Native medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Saline,No,No
+Type 2,46,Female,Never,Less than or 10 years,Primary,No,Spontaneous,31,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Saline,No,No
+Type 2,45,Male,Never,Less than or 10 years,Tertiary,Yes,Traumatic,45,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,73,Male,Never,11 to 20,Tertiary,No,Traumatic,51,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 1,32,Male,Never,Less than or 10 years,Secondary,Yes,Spontaneous,14,No,Hospital,Both,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Saline,No,No
+Type 2,66,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,29,Yes,Native medication,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,No,No,No,No,No,No,No,No,No,No,No,Saline,No,No
+Type 2,70,Male,Never,Less than or 10 years,Secondary,Yes,Traumatic,90,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Saline,No,Yes
+Type 2,35,Male,Never,Less than or 10 years,Tertiary,Yes,Traumatic,33,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Saline,No,No
+Type 2,53,Male,Never,Less than or 10 years,Secondary,Yes,Traumatic,20,No,None,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Saline,No,No
+Type 2,75,Female,Never,11 to 20,Tertiary,Yes,Traumatic,60,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,No,No,Yes,No,No,Yes,Saline,No,No
+Type 2,66,Male,Ex,11 to 20,Primary,Yes,Traumatic,30,Yes,Self medication,Planter,No,Yes,Ischemic,grade 2,Early,No,No,Yes,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,55,Male,Ex,11 to 20,Tertiary,Yes,Traumatic,28,No,Prayer house,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,No,Yes,Yes,Yes,No,Yes,No,No,Yes,No,No,Saline,No,No
+Type 2,74,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,60,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,42,Female,Never,Less than or 10 years,Primary,No,Traumatic,30,Yes,None,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Saline,Yes,No
+Type 2,63,Female,Never,Less than or 10 years,Primary,No,Traumatic,44,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Saline,No,Yes
+Type 2,62,Female,Never,Less than or 10 years,Primary,No,Traumatic,56,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 2,Early,No,No,No,Yes,No,No,No,No,No,No,No,No,Saline,No,No
+Type 2,63,Male,Never,11 to 20,Primary,No,Traumatic,40,Yes,None,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,Yes,Saline,No,Yes
+Type 1,36,Male,Never,11 to 20,Primary,No,Traumatic,45,Yes,Native medication,Both,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,No
+Type 2,83,Male,Ex,11 to 20,Tertiary,No,Spontaneous,45,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Saline,No,Yes
+Type 2,60,Male,Never,Less than or 10 years,Tertiary,No,Spontaneous,40,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Saline,No,No
+Type 2,76,Male,Never,Less than or 10 years,Unorthodox,No,Spontaneous,56,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Saline,No,Yes
+Type 2,52,Male,Never,Less than or 10 years,Primary,No,Spontaneous,55,Yes,Native medication,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,Saline,No,No
+Type 2,56,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,17,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Yes,Saline,No,No
+Type 2,47,Female,Never,Less than or 10 years,Secondary,No,Traumatic,35,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Saline,No,No
+Type 2,83,Female,Never,11 to 20,Tertiary,No,Spontaneous,63,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,Saline,No,No
+Type 2,63,Male,Ex,11 to 20,Tertiary,No,Traumatic,60,Yes,None,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,Yes,No,Yes,No,Yes,No,No,No,No,No,Honey,No,Yes
+Type 2,54,Male,Never,Less than or 10 years,Tertiary,No,Traumatic,30,Yes,None,Planter,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,Yes,Saline,No,No
+Type 2,68,Female,Never,Less than or 10 years,Tertiary,No,Traumatic,28,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,Yes,No
+Type 2,39,Male,Never,Less than or 10 years,Tertiary,No,Traumatic,40,Yes,Hospital,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,No,Honey,No,No
+Type 2,51,Female,Never,Less than or 10 years,Tertiary,Yes,Traumatic,26,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,Yes,No
+Type 2,50,Male,Never,Less than or 10 years,Primary,No,Traumatic,15,No,None,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Saline,No,No
+Type 2,47,Male,Never,Less than or 10 years,Secondary,Yes,Traumatic,30,Yes,Hospital,Planter,No,No,Unclassified,grade 3,Advanced,No,Yes,Yes,No,Yes,No,No,No,Yes,No,No,No,Honey,Yes,No
+Type 2,65,Female,Never,Less than or 10 years,Tertiary,Yes,Traumatic,60,Yes,Native medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,No,No,No,No,No,No,No,No,Honey,No,No
+Type 2,58,Male,Never,Less than or 10 years,Primary,No,Spontaneous,365,Yes,Self medication,Planter,No,Yes,Ischemic,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,No,Saline,No,Yes
+Type 2,51,Male,Ex,More than 20,Primary,Yes,Spontaneous,15,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,Saline,No,No
+Type 2,65,Male,Never,Less than or 10 years,Primary,Yes,Traumatic,30,Yes,Hospital,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,Saline,Yes,No
+Type 2,44,Male,Current,Less than or 10 years,Primary,No,Spontaneous,14,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
+Type 1,20,Female,Never,Less than or 10 years,Secondary,Yes,Traumatic,28,No,Hospital,Dorsal,No,No,Unclassified,grade 1,Early,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Honey,Yes,No
+Type 2,62,Male,Ex,11 to 20,Secondary,No,Spontaneous,51,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,Yes,No,Yes,Honey,No,Yes
+Type 2,59,Male,Never,Less than or 10 years,Primary,No,Spontaneous,38,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,Honey,No,Yes
+Type 2,52,Male,Ex,More than 20,Primary,No,Spontaneous,50,Yes,Prayer house,Both,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,No,Yes,Yes,No,No,Yes,No,Yes,No,No,Honey,No,Yes
+Type 2,65,Male,Ex,Less than or 10 years,Primary,No,Spontaneous,28,No,Prayer house,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,75,Female,Never,Less than or 10 years,Primary,No,Spontaneous,18,No,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
+Type 2,50,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,16,No,Self medication,Dorsal,No,No,Unclassified,grade 3,Advanced,No,Yes,No,No,No,No,No,Yes,No,No,No,No,Honey,Yes,No
+Type 2,68,Female,Never,11 to 20,Tertiary,No,Spontaneous,43,Yes,Native medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,Yes
+Type 2,59,Female,Never,Less than or 10 years,Tertiary,Yes,Spontaneous,40,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,Yes,No,Yes,No,No,No,No,No,No,No,Saline,No,No
+Type 2,53,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,38,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,Yes,Honey,No,No
+Type 2,62,Female,Never,11 to 20,Secondary,No,Traumatic,46,Yes,Hospital,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,65,Female,Never,Less than or 10 years,Primary,No,Traumatic,40,Yes,None,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,Yes
+Type 2,45,Male,Never,Less than or 10 years,Primary,No,Spontaneous,58,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,No,No,No,Honey,No,Yes
+Type 2,60,Male,Never,Less than or 10 years,Secondary,No,Traumatic,18,No,None,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,Yes,No
+Type 2,50,Male,Current,Less than or 10 years,Primary,No,Spontaneous,14,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Saline,No,No
+Type 2,55,Male,Ex,Less than or 10 years,Secondary,No,Traumatic,48,Yes,None,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,70,Male,Ex,11 to 20,Secondary,No,Traumatic,28,No,Hospital,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Saline,No,Yes
+Type 2,60,Male,Ex,11 to 20,Tertiary,Yes,Traumatic,22,No,None,Planter,Yes,No,Neuropathic,grade 2,Early,No,No,No,No,Yes,No,No,No,No,No,No,Yes,Saline,Yes,No
+Type 2,77,Male,Never,Less than or 10 years,Tertiary,Yes,Traumatic,34,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,No,No,Yes,No,Yes,No,No,Yes,No,No,Saline,Yes,No
+Type 2,45,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,26,No,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Honey,Yes,No
+Type 2,50,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,90,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Saline,No,Yes
+Type 2,52,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,60,Yes,Native medication,Both,Yes,No,Neuropathic,grade 1,Early,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Honey,Yes,No
+Type 2,54,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,30,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,No,No,No,No,No,No,No,No,No,No,No,Honey,Yes,No
+Type 2,63,Female,Never,11 to 20,Secondary,No,Traumatic,60,Yes,Hospital,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,Yes,No
+Type 2,42,Female,Never,Less than or 10 years,Secondary,No,Traumatic,28,No,Hospital,Planter,No,No,Unclassified,grade 4,Advanced,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Saline,No,No
+Type 2,60,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,45,Yes,Self medication,Both,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,Honey,No,Yes
+Type 2,67,Male,Ex,11 to 20,Tertiary,Yes,Spontaneous,39,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,No,Yes,No,Yes,No,No,No,No,Yes,Saline,No,No
+Type 1,22,Male,Never,Less than or 10 years,Tertiary,Yes,Spontaneous,21,No,None,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Honey,Yes,No
+Type 2,55,Female,Never,Less than or 10 years,Tertiary,Yes,Spontaneous,63,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Honey,No,No
+Type 2,65,Female,Never,Less than or 10 years,Primary,No,Traumatic,47,Yes,Self medication,Both,No,No,Unclassified,grade 5,Advanced,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Yes,Honey,No,Yes
+Type 2,55,Male,Never,11 to 20,Secondary,Yes,Spontaneous,120,Yes,Hospital,Both,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,No,No,No,No,No,No,No,No,No,No,Saline,No,Yes
+Type 2,65,Female,Never,11 to 20,Primary,No,Spontaneous,35,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 5,Advanced,Yes,No,No,No,Yes,No,No,No,No,No,No,No,Saline,No,Yes
+Type 2,52,Male,Never,Less than or 10 years,Unorthodox,No,Traumatic,40,Yes,Hospital,Both,No,No,Unclassified,grade 5,Advanced,Yes,No,No,No,No,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,67,Male,Never,11 to 20,Unorthodox,No,Spontaneous,42,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Saline,No,Yes
+Type 2,42,Male,Never,Less than or 10 years,Unorthodox,No,Spontaneous,60,Yes,Prayer house,Both,Yes,No,Neuropathic,grade 5,Advanced,Yes,Yes,No,Yes,No,No,No,No,No,No,No,No,Saline,No,Yes
+Type 2,57,Female,Never,Less than or 10 years,Tertiary,Yes,Traumatic,27,No,Hospital,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,Yes,No,No,No,No,Yes,No,No,Honey,Yes,No
+Type 2,64,Male,Never,11 to 20,Unorthodox,No,Spontaneous,32,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,No,Yes
+Type 2,67,Male,Never,Less than or 10 years,Unorthodox,Yes,Traumatic,21,No,Hospital,Dorsal,No,No,Unclassified,grade 2,Early,No,Yes,No,Yes,No,Yes,No,No,Yes,Yes,No,No,Honey,Yes,No
+Type 2,43,Female,Never,Less than or 10 years,Primary,No,Spontaneous,73,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Saline,No,No
+Type 2,70,Female,Never,11 to 20,Primary,No,Spontaneous,60,Yes,Prayer house,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Saline,No,No
+Type 2,31,Male,Never,Less than or 10 years,Unorthodox,No,Traumatic,31,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,Yes,Yes,Yes,No,No,No,Yes,Saline,No,No
+Type 2,80,Female,Never,Less than or 10 years,Unorthodox,No,Spontaneous,31,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 2,Early,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Honey,No,No
+Type 2,54,Female,Never,Less than or 10 years,Primary,No,Spontaneous,28,No,Native medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Saline,No,Yes
+Type 2,75,Male,Never,Less than or 10 years,Secondary,Yes,Traumatic,14,No,Hospital,Dorsal,Yes,Yes,Neuroischemic,grade 2,Early,No,No,No,No,No,No,No,No,Yes,No,No,No,Honey,Yes,No
+Type 2,50,Female,Never,Less than or 10 years,Unorthodox,No,Spontaneous,41,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,No,No,No,Saline,No,No
+Type 2,80,Male,Never,Less than or 10 years,Tertiary,Yes,Spontaneous,14,No,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 2,Early,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Saline,No,No
+Type 2,65,Female,Never,Less than or 10 years,Primary,No,Traumatic,28,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Saline,No,No
+Type 2,51,Male,Current,Less than or 10 years,Tertiary,Yes,Spontaneous,56,Yes,Hospital,Both,No,Yes,Ischemic,grade 4,Advanced,Yes,No,No,Yes,No,No,No,No,No,No,No,Yes,Saline,No,Yes
+Type 2,55,Male,Ex,Less than or 10 years,Tertiary,Yes,Traumatic,44,Yes,Hospital,Dorsal,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,No,No,No,No,Yes,No,Yes,No,No,No,Saline,No,Yes
+Type 2,55,Male,Never,Less than or 10 years,Primary,Yes,Spontaneous,35,Yes,Self medication,Dorsal,No,No,Unclassified,grade 2,Early,No,Yes,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,Saline,No,No
+Type 2,54,Male,Never,Less than or 10 years,Primary,No,Traumatic,21,No,None,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,No,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Saline,Yes,No
+Type 2,40,Female,Never,Less than or 10 years,Primary,No,Traumatic,56,Yes,Self medication,Both,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,No,Saline,No,No
+Type 2,75,Female,Never,Less than or 10 years,Primary,No,Spontaneous,40,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,Yes,No,No,No,Yes,Yes,No,No,No,No,Saline,No,No
+Type 1,25,Female,Never,Less than or 10 years,Primary,No,Traumatic,42,Yes,None,Dorsal,No,No,Unclassified,grade 2,Early,No,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,Honey,Yes,No
+Type 2,54,Male,Ex,Less than or 10 years,Secondary,No,Spontaneous,35,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Saline,No,No
+Type 2,58,Male,Never,Less than or 10 years,Primary,No,Spontaneous,180,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Saline,No,Yes
+Type 2,72,Female,Never,Less than or 10 years,Tertiary,No,Spontaneous,135,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,No,No,Honey,No,Yes
+Type 2,53,Male,Never,Less than or 10 years,Primary,No,Traumatic,60,Yes,None,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Honey,Yes,No
+Type 2,45,Male,Never,Less than or 10 years,Primary,No,Spontaneous,30,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Honey,Yes,No
+Type 2,55,Male,Never,Less than or 10 years,Tertiary,No,Traumatic,35,Yes,Hospital,Both,Yes,No,Neuropathic,grade 2,Early,No,No,No,Yes,No,No,No,Yes,No,No,No,No,Saline,Yes,No
+Type 2,54,Female,Never,Less than or 10 years,Secondary,No,Traumatic,60,Yes,None,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
+Type 2,38,Female,Never,Less than or 10 years,Secondary,Yes,Traumatic,21,No,Hospital,Both,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Honey,No,No
+Type 2,69,Male,Ex,11 to 20,Secondary,Yes,Traumatic,31,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,Yes,No,No,No,No,No,No,Yes,Saline,No,No
+Type 2,45,Male,Ex,Less than or 10 years,Unorthodox,No,Spontaneous,40,Yes,Native medication,Planter,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,No,No,No,Yes,No,No,No,No,No,Saline,Yes,No
+Type 2,45,Male,Never,Less than or 10 years,Primary,No,Spontaneous,37,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,Honey,Yes,No
+Type 2,50,Male,Never,Less than or 10 years,Primary,Yes,Traumatic,21,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Honey,Yes,No
+Type 2,34,Male,Current,Less than or 10 years,Secondary,No,Traumatic,50,Yes,Prayer house,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,Yes,No,No,No,Honey,No,Yes
+Type 2,80,Female,Never,11 to 20,Primary,No,Spontaneous,44,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,Honey,No,Yes
+Type 2,50,Female,Never,11 to 20,Secondary,No,Traumatic,50,Yes,None,Dorsal,No,Yes,Ischemic,grade 5,Advanced,Yes,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,Honey,No,Yes
+Type 2,69,Male,Never,Less than or 10 years,Primary,No,Traumatic,42,Yes,Prayer house,Dorsal,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,No,Yes,Yes,Yes,Yes,No,No,Yes,No,Saline,No,Yes
+Type 2,50,Male,Never,11 to 20,Secondary,No,Spontaneous,23,No,Self medication,Planter,Yes,Yes,Neuroischemic,grade 2,Early,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Honey,No,No
+Type 2,48,Male,Never,Less than or 10 years,Primary,Yes,Traumatic,17,No,Hospital,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,Yes,Honey,No,No
+Type 2,42,Male,Never,Less than or 10 years,Primary,No,Traumatic,56,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Honey,No,Yes
+Type 2,55,Female,Never,Less than or 10 years,Secondary,No,Traumatic,18,No,Native medication,Both,No,No,Unclassified,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
+Type 2,65,Female,Never,Less than or 10 years,Secondary,No,Traumatic,49,Yes,None,Planter,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,Honey,No,Yes
+Type 2,69,Female,Never,11 to 20,Tertiary,Yes,Spontaneous,40,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,Yes,Yes,No,No,No,No,Saline,No,Yes
+Type 2,65,Female,Never,11 to 20,Tertiary,Yes,Traumatic,21,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 1,Early,No,No,No,No,Yes,No,No,No,No,No,No,No,Saline,Yes,No
+Type 2,40,Female,Never,Less than or 10 years,Tertiary,Yes,Spontaneous,30,Yes,Hospital,Both,No,No,Unclassified,grade 2,Early,No,No,No,Yes,No,No,Yes,Yes,No,No,No,No,Honey,Yes,No
+Type 2,65,Male,Never,Less than or 10 years,Secondary,No,Traumatic,54,Yes,None,Dorsal,No,Yes,Ischemic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,No,Honey,No,Yes
+Type 2,56,Male,Never,Less than or 10 years,Secondary,Yes,Spontaneous,30,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,Yes,Yes,Honey,No,Yes
+Type 2,80,Female,Never,Less than or 10 years,Tertiary,Yes,Traumatic,40,Yes,Hospital,Dorsal,No,No,Unclassified,grade 2,Early,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Saline,Yes,No
+Type 2,55,Female,Never,Less than or 10 years,Unorthodox,No,Spontaneous,60,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Saline,No,Yes
+Type 2,58,Male,Ex,Less than or 10 years,Secondary,Yes,Spontaneous,120,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,Saline,No,Yes
+Type 2,65,Male,Never,11 to 20,Tertiary,No,Spontaneous,30,Yes,Self medication,Dorsal,No,Yes,Ischemic,grade 2,Early,No,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Saline,No,Yes
+Type 2,40,Female,Never,Less than or 10 years,Secondary,Yes,Spontaneous,48,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Saline,No,Yes
+Type 2,50,Male,Never,Less than or 10 years,Tertiary,No,Spontaneous,90,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Saline,No,Yes
+Type 2,51,Male,Never,11 to 20,Tertiary,Yes,Spontaneous,25,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,No,Yes,No,No,No,No,Yes,No,No,No,No,Saline,Yes,No
+Type 2,55,Male,Never,Less than or 10 years,Tertiary,Yes,Traumatic,30,Yes,None,Both,Yes,Yes,Ischemic,grade 2,Early,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Saline,Yes,No
+Type 2,55,Female,Never,Less than or 10 years,Primary,Yes,Spontaneous,36,Yes,Self medication,Both,Yes,Yes,Ischemic,grade 5,Advanced,Yes,Yes,No,No,No,No,Yes,No,No,No,No,Yes,Saline,No,Yes
+Type 2,70,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,30,Yes,Self medication,Dorsal,Yes,Yes,Ischemic,grade 2,Early,No,No,No,No,Yes,No,No,No,No,No,No,No,Honey,Yes,No
+Type 2,50,Female,Never,Less than or 10 years,Primary,Yes,Traumatic,30,Yes,Hospital,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Honey,No,No
+Type 2,50,Female,Never,Less than or 10 years,Primary,No,Spontaneous,33,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 2,Early,No,No,No,Yes,Yes,No,No,No,No,No,No,No,Saline,No,No
+Type 2,52,Female,Never,Less than or 10 years,Secondary,Yes,Traumatic,66,Yes,Hospital,Dorsal,No,No,Unclassified,grade 2,Early,No,Yes,Yes,No,Yes,No,No,Yes,No,No,No,No,Saline,No,Yes
+Type 2,50,Male,Current,Less than or 10 years,Primary,No,Spontaneous,57,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,No,Yes,No,No,No,No,Saline,No,Yes
+Type 2,60,Male,Never,Less than or 10 years,Primary,No,Spontaneous,42,Yes,Native medication,Both,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,No,No,Yes,No,Yes,No,No,Yes,Saline,No,Yes
+Type 2,78,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,47,Yes,Native medication,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No,No,Saline,Yes,No
+Type 2,49,Male,Never,Less than or 10 years,Secondary,No,Traumatic,69,Yes,None,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,Yes,No,No,No,No,No,Honey,No,No
+Type 2,43,Male,Never,Less than or 10 years,Secondary,No,Spontaneous,22,No,Self medication,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,Yes,No,Yes,Yes,Yes,Yes,No,No,Yes,Honey,Yes,No
+Type 2,50,Male,Never,Less than or 10 years,Secondary,Yes,Spontaneous,43,Yes,Hospital,Planter,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,Yes,No,No,No,No,No,No,No,No,No,Saline,Yes,No
+Type 2,53,Male,Ex,Less than or 10 years,Tertiary,Yes,Spontaneous,34,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Honey,No,No
+Type 2,65,Male,Never,Less than or 10 years,Tertiary,Yes,Spontaneous,41,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Saline,No,No
+Type 1,19,Male,Current,Less than or 10 years,Primary,No,Traumatic,27,No,Hospital,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,No,Yes,Yes,No,No,No,Yes,No,No,No,No,Honey,No,No
+Type 2,87,Male,Never,More than 20,Secondary,No,Spontaneous,67,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 2,Early,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,No,No,Saline,Yes,No
+Type 2,52,Male,Never,Less than or 10 years,Unorthodox,No,Traumatic,54,Yes,Native medication,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,Yes,Yes,Yes,Yes,No,No,No,No,Honey,No,No
+Type 2,48,Female,Never,11 to 20,Secondary,No,Spontaneous,33,Yes,Self medication,Planter,No,No,Unclassified,grade 1,Early,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,Saline,Yes,No
+Type 2,48,Male,Current,More than 20,Tertiary,No,Spontaneous,45,Yes,Prayer house,Both,No,Yes,Ischemic,grade 1,Early,No,Yes,No,No,Yes,No,No,No,No,No,No,No,Honey,Yes,No
+Type 2,55,Male,Never,Less than or 10 years,Secondary,No,Spontaneous,90,Yes,Self medication,Dorsal,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,Yes,No,No,No,No,Honey,No,No
+Type 2,30,Male,Ex,Less than or 10 years,Unorthodox,No,Spontaneous,60,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 5,Advanced,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Honey,No,Yes
+Type 2,34,Female,Never,Less than or 10 years,Primary,No,Traumatic,72,Yes,None,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,No,No,Yes,Yes,No,Yes,No,No,No,Yes,No,Honey,No,Yes
+Type 2,54,Female,Never,Less than or 10 years,Tertiary,Yes,Traumatic,55,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Honey,No,Yes
+Type 2,55,Male,Never,Less than or 10 years,Tertiary,No,Spontaneous,53,Yes,Native medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes,Saline,No,Yes
+Type 2,61,Male,Ex,Less than or 10 years,Secondary,Yes,Spontaneous,54,Yes,Hospital,Both,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,Yes,Yes,No,Yes,No,No,Yes,Yes,Yes,Saline,No,No
+Type 2,54,Female,Never,Less than or 10 years,Tertiary,Yes,Traumatic,19,No,None,Both,Yes,Yes,Neuroischemic,grade 2,Early,No,No,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Honey,No,No
+Type 1,40,Male,Ex,11 to 20,Secondary,Yes,Spontaneous,14,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,No,No,No,No,No,No,Yes,No,No,No,Yes,Honey,Yes,No
+Type 2,71,Male,Ex,Less than or 10 years,Primary,Yes,Spontaneous,63,Yes,Hospital,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,No,No,No,No,No,No,No,No,No,Yes,Honey,No,Yes
+Type 2,80,Male,Never,Less than or 10 years,Tertiary,Yes,Spontaneous,21,No,Hospital,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,Yes,No,Yes,No,No,No,Yes,No,No,No,No,Honey,Yes,No
+Type 2,55,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,54,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,Yes,Yes,Honey,No,Yes
+Type 2,60,Male,Never,11 to 20,Secondary,Yes,Traumatic,35,Yes,Self medication,Both,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,Yes,Honey,No,Yes
+Type 2,57,Female,Never,Less than or 10 years,Tertiary,Yes,Traumatic,40,Yes,Hospital,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,Yes,No,No,No,No,No,No,Yes,No,Yes,Saline,No,Yes
+Type 2,48,Male,Never,Less than or 10 years,Tertiary,Yes,Spontaneous,35,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,Yes,No,Honey,No,No
+Type 2,57,Male,Ex,Less than or 10 years,Tertiary,No,Spontaneous,23,No,Self medication,Dorsal,Yes,No,Neuropathic,grade 2,Early,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
+Type 2,65,Female,Current,Less than or 10 years,Unorthodox,No,Spontaneous,54,Yes,Self medication,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,Yes,No,No,No,No,Yes,Yes,No,Yes,No,No,Honey,No,Yes
+Type 2,75,Male,Never,Less than or 10 years,Tertiary,Yes,Spontaneous,45,Yes,Prayer house,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,No,Yes,Yes,Honey,No,No
+Type 2,49,Female,Never,Less than or 10 years,Secondary,No,Traumatic,21,No,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,No,No,Yes,Yes,No,No,No,No,Honey,Yes,No
+Type 2,54,Male,Never,Less than or 10 years,Secondary,Yes,Spontaneous,14,No,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,No,No,No,Yes,No,No,Yes,No,Honey,No,No
+Type 2,65,Male,Ex,Less than or 10 years,Secondary,No,Traumatic,28,No,Prayer house,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,No,No,Yes,No,Yes,Yes,No,No,No,No,Honey,No,No
+Type 2,66,Female,Never,Less than or 10 years,Tertiary,Yes,Spontaneous,33,Yes,Self medication,Both,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,Saline,No,No
+Type 2,61,Male,Never,Less than or 10 years,Secondary,No,Traumatic,21,No,Hospital,Dorsal,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,No,Yes,Yes,No,No,No,No,No,No,No,Honey,No,No
+Type 2,57,Female,Never,Less than or 10 years,Secondary,No,Spontaneous,180,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,No,Yes,No,Yes,No,No,No,No,No,Honey,No,Yes
+Type 2,53,Male,Current,Less than or 10 years,Tertiary,No,Traumatic,19,No,None,Dorsal,Yes,No,Neuropathic,grade 3,Advanced,No,Yes,No,No,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
+Type 2,50,Female,Never,11 to 20,Secondary,No,Traumatic,87,Yes,None,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,Yes,No,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Honey,Yes,No
+Type 2,49,Male,Current,Less than or 10 years,Tertiary,No,Spontaneous,72,Yes,Self medication,Planter,Yes,Yes,Neuroischemic,grade 4,Advanced,Yes,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No,Saline,Yes,No
+Type 2,58,Female,Never,Less than or 10 years,Unorthodox,No,Spontaneous,54,Yes,Self medication,Planter,Yes,No,Neuropathic,grade 4,Advanced,Yes,Yes,No,Yes,Yes,No,No,Yes,No,No,No,No,Honey,Yes,No
+Type 2,59,Female,Never,Less than or 10 years,Tertiary,No,Spontaneous,78,Yes,None,Planter,Yes,Yes,Neuroischemic,grade 3,Advanced,No,No,No,No,Yes,No,Yes,No,No,Yes,No,Yes,Honey,No,No
+Type 2,42,Male,Current,Less than or 10 years,Secondary,Yes,Spontaneous,32,Yes,Hospital,Dorsal,No,No,Unclassified,grade 3,Advanced,No,Yes,No,No,No,No,No,No,No,No,No,No,Honey,Yes,No
